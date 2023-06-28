@@ -1,0 +1,163 @@
+body {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.logo img {
+    width: 250px;
+
+}
+
+header {
+    width: 100%;
+    height: 60px;
+    background-color: black;
+margin-left: 0px;
+}
+
+header ul {
+    list-style-type: none;
+    line-height: 60px;
+
+}
+
+header ul li {
+    font-size: 15px;
+    word-spacing: 4px;
+    float: left;
+    padding-right: 50px;
+    padding-left: 50px;
+    color: white;
+
+}
+
+
+
+h1 {
+    border-left: 5px solid black;
+    border-bottom: 2px solid black;
+      margin-left: 5px;
+    text-indent: 10px;
+
+
+}
+
+.left {
+    float: left;
+    text-align: left;
+    width: 75%;
+}
+
+
+
+.left form {
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    margin-right: 210px;
+}
+
+.kiji {
+   
+    margin-bottom: 10px;
+    padding: 10px 10px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    width: 97%;
+    
+}
+
+.kiji h3 {
+    border-bottom: solid 2px lightgray;
+}
+
+.contents {
+    margin: 5px;
+    padding-bottom: 5px;
+    float: left;
+    
+        
+}
+
+.handlename {
+    font-size: 12px;
+    
+    
+}
+
+
+
+
+h2 {
+    margin: 0 auto;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-left: 4px red solid;
+    background-color: #fbfbfb;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    font-size: 20px;
+    line-height: 2;
+}
+
+
+
+
+.submit {
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+
+}
+
+
+
+
+
+.right {
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.right ul {
+
+    list-style-type: none;
+    margin-left: -35px;
+    margin-top: -10px;
+    line-height: 5px;
+
+}
+
+.right h3 {
+
+    border-bottom: 5px dotted black;
+    border-bottom: 2px dotted black;
+    line-height: 2;
+}
+
+.right ul {
+    line-height: 1.5;
+}
+
+
+
+footer {
+    clear: left;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
+
+.last {
+    list-style-type: none;
+
+}
